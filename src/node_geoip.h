@@ -4,8 +4,8 @@
  * Licensed under the GNU LGPL 2.1 license
  */                                              
 
-#include <GeoIP.h>
-#include <GeoIPCity.h>
+#include "geoip/GeoIP.h"
+#include "geoip/GeoIPCity.h"
 #include <unistd.h>
 
 #ifndef NODE_GEOIP_H
